@@ -35,3 +35,8 @@ function control(id) {
 // function bro(params) {
 //   console.log("brooooo");
 // }
+
+
+
+
+
